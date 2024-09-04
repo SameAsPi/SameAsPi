@@ -52,6 +52,6 @@
 
 ###
 
-<p align="left">BTC: [In Progress]<br><br>XMR: [In Progress]</p>
+<p align="left">BTC: bc1q26e8e28wegn8n3c5vldlxl7pwtajeryqz3wsr9<br><br>XMR: 45epVGhZNASMQvAcxXZ3pa4VwFWaeMdUHZVMZ3cDbpRZ8zwhUgfRGvEaQXpbCJaYjRDLiTC5PbWWn9HpZeLFSQX11UWxfzE</p>
 
 ###
